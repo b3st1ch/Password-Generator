@@ -1,0 +1,42 @@
+0q.1==========
+    - First version
+;
+
+
+
+0w.1==========
+    - Completing Algoritm Changed
+;
+
+
+
+0w.2==HOTFIX=
+    - Fixed Problem while leaving the programm
+;
+
+
+
+0e.1==========
+    - Now you can leave the programm using hotkey while getting a random password
+;
+
+
+
+0e.2==HOTFIX=
+    - Fixed problem while leaving the programm 
+;
+
+
+
+1e.2==========
+    - Code was optimized for better understanding
+;
+
+
+
+1.0 ==========
+    - Final version
+    - New interface
+    - Russian language
+    - Option changes language to english
+;
